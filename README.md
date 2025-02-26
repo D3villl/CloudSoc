@@ -1,1 +1,2 @@
 # CloudSoc
+# Building a SOC
